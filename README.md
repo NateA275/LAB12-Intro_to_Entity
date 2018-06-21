@@ -7,7 +7,7 @@ Utilizing MVC Architecture and the Entity Framework
 
 ## Visual
 
-![Movie App](./MvcMovie/MvcMovie/wwwroot/images/movie_app.png)
+![Movie_App](./MvcMovie/MvcMovie/wwwroot/images/movie_app.PNG)
 
 ## Usage
 
